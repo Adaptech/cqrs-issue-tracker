@@ -1,1 +1,1 @@
-# cqrs-issue-tracker
+# CQRS Issue Tracker
